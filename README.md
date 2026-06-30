@@ -5,7 +5,6 @@ The code for 2026 Protein Design of the Neo-procell team
 ├── esmscan.py
 ├── GFP_data.xlsx
 ├── AAseqs of 5 GFP proteins_20260511.txt
-├── Exclusion_List.csv
 └── README.md
 
 `mainproject.py`
